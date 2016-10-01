@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ImageProccessing_wpf.ImageHelpers.GeneralImageMethods">
+    <Position X="2.75" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAABAAAIAAkAEAAAAAAAEAAAAAAAAIAYAAAAAQA=</HashCode>
+      <FileName>ImageHelpers\GeneralImageMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageProccessing_wpf.ImageHelpers.ImageEffects">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAIAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageHelpers\ImageEffects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageProccessing_wpf.ImageHelpers.ImageFilters">
+    <Position X="5.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAQAABAAAAAAAAQAAAAAAAACIAAAAAAIAAAA=</HashCode>
+      <FileName>ImageHelpers\ImageFilters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageProccessing_wpf.ImageHelpers.ShapeDetector">
+    <Position X="8.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>ImageHelpers\ShapeDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageProccessing_wpf.HelperClasses.ImageHistoryModel">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEAAAAAAAAAAA=</HashCode>
+      <FileName>HelperClasses\ImageHistoryModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageProccessing_wpf.MainWindow">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QbRAoFo5mhzscZMIQAFFItHCpEnoN2KJneJg5CBFECY=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Enum Name="ImageProccessing_wpf.HelperClasses.Manipulation">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAEAEAQBgIDQBAkAEAgAAAkhgAAAAAAACAAIAAAAA=</HashCode>
+      <FileName>HelperClasses\ImageHistoryModel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImageProccessing_wpf.A">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
